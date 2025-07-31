@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Pablo Sastre-Garau, I just started a new position in September 2025 at CGI as an AI & Data Engineer. I'm trying to be a better developper, Data architect and AI engineer every day and in this GitHub, I'll share with you my everyday personal work. :)
+
 <!--
 **pablosastregarau/pablosastregarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
