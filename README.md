@@ -1,6 +1,12 @@
 ## Bonjour :)
 
-My name is Pablo Sastre-Garau, I just started a new position in September 2025 at CGI as an AI & Data Engineer. I'm trying to be a better developper, Data architect and AI engineer every day and in this GitHub, I'll share with you my everyday personal work. :)
+I'm Pablo Sastre-Garau, a recent graduate with a dual degree from a business school and an engineering school. Since September 2025, I've been working as a Data & AI Engineer at CGI.
+
+I've always been passionate about technology, but also about sports and health. I’d like to contribute to these industries by building tools that improve performance, prediction, and decision-making. I'm especially interested in how data and AI can support athletes, coaches, and health professionals.
+
+On this GitHub, I share personal projects, prototypes, and experiments : from data pipelines and machine learning models to AI-powered apps and cloud workflows. This space reflects my journey to keep improving as a developer, data engineer, and AI practitioner.
+
+Feel free to explore, connect, or reach out. I'm always happy to learn from others and share ideas !
 
 <!--
 **pablosastregarau/pablosastregarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
