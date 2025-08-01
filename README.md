@@ -1,6 +1,6 @@
 ## Bonjour :)
 
-I'm Pablo Sastre-Garau, a recent graduate with a dual degree from a business school and an engineering school. Since September 2025, I've been working as a Data & AI Engineer at CGI.
+I'm Pablo Sastre-Garau, a recent graduate with a dual degree from a business school and an engineering school. Since September 2024, I've been working as a Data & AI Engineer at CGI.
 
 I've always been passionate about technology, but also about sports and health. I’d like to contribute to these industries by building tools that improve performance, prediction, and decision-making. I'm especially interested in how data and AI can support athletes, coaches, and health professionals.
 
